@@ -4,6 +4,8 @@
 
 Expense Tracker is a modern, responsive React application designed to help you manage and track your personal expenses effortlessly. With features like dark mode, filtering, sorting, and persistent storage, this app makes financial tracking simple and intuitive.
 
+## Screenshots
+
 ![Light Mode-1](public/assets/part-1.png)
 ![Light Mode-2](public/assets/part-2.png)
 ![Dark Mode](public/assets/part-3.png)
