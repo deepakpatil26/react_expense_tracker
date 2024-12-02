@@ -48,12 +48,12 @@ Expense Tracker is a modern, responsive React application designed to help you m
 ### Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/deepakpatil26/react-expense-tracker.git
+git clone https://github.com/deepakpatil26/react_expense_tracker.git
 ```
 
 2. Navigate to the project directory
 ```bash
-cd react-expense-tracker
+cd react_expense_tracker
 ```
 
 3. Install dependencies
@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - deepakpatil2612@gmail.com
 
-Project Link: [https://github.com/deepakpatil26/react-expense-tracker](https://github.com/deepakpatil26/react-expense-tracker)
+Project Link: [https://github.com/deepakpatil26/react_expense_tracker](https://github.com/deepakpatil26/react_expense_tracker)
 
 ---
 
