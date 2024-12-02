@@ -99,8 +99,11 @@ const App = () => {
     0
   );
 
+  const basename =
+    process.env.NODE_ENV === "production" ? "/react_expense_tracker" : "/";
+
   return (
-    <Router>
+    <Router basename={basename}>
       <div
         className={`min-h-screen p-4 transition-all duration-300 ${
           isDarkMode ? "bg-gray-900 text-white" : "bg-gray-100 text-gray-900"
